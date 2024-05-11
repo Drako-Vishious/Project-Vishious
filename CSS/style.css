@@ -1,0 +1,42 @@
+/*  -- Body -- */
+
+body{
+    background-color: rgb(196, 149, 88);
+}
+
+#index-Body{
+    text-align: center;
+}
+
+/* -- Header -- */
+
+
+
+/* -- Nav -- */
+
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(92, 92, 92);
+    padding: 0px;
+    margin: 0px;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: rgb(26, 26, 26);
+    color: aqua;
+}
+
+/* -- Main Section -- */
+
+
+/* -- Footer -- */
+
+footer{
+    text-align: center;
+}
