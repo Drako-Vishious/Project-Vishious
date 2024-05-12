@@ -11,3 +11,5 @@
 0.0.3 Fixed Picture file paths for project vishious crest and drako's avatar.
 
 0.0.4 Began CSS coding
+
+0.0.5 Linked CSS sheet to INDEX and ABOUT pages, fixed coding of header & footer for proper colors, fixed Drako's avatar picture's height. Fixed Navbar next to header tag in both INDEX and ABOUT pages for a solid background behind both.

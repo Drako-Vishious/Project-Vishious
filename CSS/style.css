@@ -8,15 +8,23 @@ body{
     text-align: center;
 }
 
+#about-Body{
+    text-align: center;
+}
+
 /* -- Header -- */
 
+header{
+    background-color: rgb(56, 1, 1);
+    color: aqua;
+}
 
 
 /* -- Nav -- */
 
 .navbar ul{
     list-style-type: none;
-    background-color: rgb(92, 92, 92);
+    background-color: rgb(56, 1, 1);
     padding: 0px;
     margin: 0px;
 }
@@ -34,9 +42,15 @@ body{
 
 /* -- Main Section -- */
 
+#Avatar{
+    height: 300px;
+}
+
 
 /* -- Footer -- */
 
 footer{
     text-align: center;
+    color: aqua;
+    background-color: rgb(56, 1, 1);
 }
