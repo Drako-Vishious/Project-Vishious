@@ -15,3 +15,5 @@
 0.0.5 Linked CSS sheet to INDEX and ABOUT pages, fixed coding of header & footer for proper colors, fixed Drako's avatar picture's height. Fixed Navbar next to header tag in both INDEX and ABOUT pages for a solid background behind both.
 
 0.0.5A Corrected ABOUT page to have navbar and header next to each other for a solid background.
+
+0.0.5B Added Project Vishious Mission Statement and admission of letting Drako stream.
