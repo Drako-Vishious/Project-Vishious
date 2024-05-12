@@ -17,3 +17,5 @@
 0.0.5A Corrected ABOUT page to have navbar and header next to each other for a solid background.
 
 0.0.5B Added Project Vishious Mission Statement and admission of letting Drako stream.
+
+0.0.6 Added audio to INDEX and ABOUT pages via footer, autoplays but is muted. Created a TEMPLATE for future expansion.
