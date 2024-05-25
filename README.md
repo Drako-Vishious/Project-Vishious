@@ -21,3 +21,5 @@
 0.0.6 Added audio to INDEX and ABOUT-DRAKO pages via footer, autoplays but is muted. Created a TEMPLATE for future expansion.
 
 0.0.7 Fixed spelling and grammar Mistakes in INDEX and ABOUT-DRAKO pages. Created and worked on the ABOUT page.
+
+0.0.7A Fixed font size on all pages to increase readability.
